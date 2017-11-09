@@ -1,2 +1,4 @@
-# ICT2201_22-1_Tri1_2018_lab2
-Testing for lab!
+# ICT2101
+This is a repo for ICT2101
+
+This is to activate automatic build. 
